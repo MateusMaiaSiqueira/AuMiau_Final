@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MiaudotaApplication<miaudota>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.univille.MiaudotaApplication",
+            "projectName": "miaudota",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
